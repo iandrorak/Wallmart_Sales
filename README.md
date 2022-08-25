@@ -6,11 +6,7 @@
 
 Name : Iandro Rakotondrandria
 
-email : iandro.rak@gmail.com
-
 Data : Data files are in "src" folder
-
-Vidyard video : https://share.vidyard.com/watch/nfSTG7MPYBxLGb4F2BU7pM?
 
 ## Context 📇
 
